@@ -5,7 +5,7 @@ import requests
 # FASTAPI BACKEND URL
 # ============================================================
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://student-management-api1.onrender.com"
 
 
 # ============================================================
